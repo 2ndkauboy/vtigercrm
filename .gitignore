@@ -1,0 +1,4 @@
+/backup/*
+/cache/*
+/logs/*
+/config.inc.php
